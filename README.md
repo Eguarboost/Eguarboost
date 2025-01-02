@@ -1,6 +1,16 @@
+# Attention
+Please note that these modules will not work on the Hyper OS 2.0 stove. Otherwise, you will break your system.
 # Redmi-no-12-pro5g-modul-magisk
 This thread is created purely for no reason and simply recommends magisk modules for redmi note 10s and redmi note 12 pro plus 5g on bvze xiaomi eu and optimization
+# Important information about updates
+Updates are not introduced often, but usually if serious errors are found, the update is released within an hour, although very rarely we have serious errors in the firmware. 
+# Safety 
+All assemblies are tested and checked through the most popular antiviruses, so you can trust us 100%
+# Social media
+It's empty here for now...
 # Screenshots
+> Screenshots will be removed soon because they are in the way
+
 ![1000000303](https://github.com/user-attachments/assets/39b69d0f-0c5f-4bad-b894-23697c99f620)
 ![1000000379](https://github.com/user-attachments/assets/a5b97b9a-6318-4eaa-94c3-7357fd9b91f5)
 ![1000000169](https://github.com/user-attachments/assets/5ddf4bed-1f8a-47e6-a630-8d7b98f77836)
