@@ -6,7 +6,7 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.5.x   | :white_check_mark: |
-| 1.5     | ⚠️                 |
+| 1.5     | :warning:          |
 | 1.2     | :x:                |
 
 ## Reporting a Vulnerability
