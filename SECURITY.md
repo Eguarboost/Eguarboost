@@ -25,7 +25,7 @@ You can report errors in the "problems" tab.
 | 1.5     | 0,3%                     |
 | 1.2     | 2,7%      | Lots of bugs |
 
-# bugs 
+# Bugs 
 A separate tab with errors and benefits of different versions 
 
 ## 1.2
