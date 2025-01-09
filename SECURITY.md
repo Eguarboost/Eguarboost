@@ -9,6 +9,8 @@
 | 1.5     | :warning:          |
 | 1.2     | :x:                |
 
+:warning: = Currently supported but soon will not be supported 
+
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
