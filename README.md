@@ -4,11 +4,10 @@
 > https://github.com/Dai56764/Redmi-no-12-pro5g-modul-magi/releases/tag/Beta
 > https://github.com/Dai56764
 
-> The project will soon have its own name. 
 # Attention
 Please note that these modules will not work on the Hyper OS 2.0 stove. Otherwise, you will break your system.
-# Redmi-no-12-pro5g-modul-magisk
-This thread is created purely for no reason and simply recommends magisk modules for redmi note 10s and redmi note 12 pro plus 5g on bvze xiaomi eu and optimization
+# Eguarbust What is this?
+Eguarbust.- A patch of modules for Xiaomi EU which not only speeds up the phone but also turns into iOS, adding new AI functions and much more! (The module is exclusively made for Redmi Note 12 Pro Plus/Pro on other phones there is a chance of bootloob 
 # Important information about updates
 Updates are not introduced often, but usually if serious errors are found, the update is released within an hour, although very rarely we have serious errors in the firmware. 
 # Safety 
