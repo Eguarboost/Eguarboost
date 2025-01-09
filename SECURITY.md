@@ -17,5 +17,6 @@ You install everything at your own risk.
 
 All problems and bugs are listed below after the list of changes.
 
+You can report errors in the "problems" tab.
 ## Other  
 ---
