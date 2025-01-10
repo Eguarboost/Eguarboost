@@ -1,0 +1,1 @@
+You can help the project develop and create your own versions and adding your modifications and modules, but keep in mind that if these modules are very bad and you have not tested them, your account will be blocked. 
