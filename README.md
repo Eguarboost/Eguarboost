@@ -23,4 +23,5 @@ All assemblies are tested and checked through the most popular antiviruses, so y
 It's empty here for now...
 # Other
 Егуар буст на русском: https://github.com/Dai56764/Eguarboost-RUS
-
+eguar boost for weak phones
+https://github.com/Dai56764/Eguatboost-ltss
