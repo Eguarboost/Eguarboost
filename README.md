@@ -21,3 +21,6 @@ Updates are not introduced often, but usually if serious errors are found, the u
 All assemblies are tested and checked through the most popular antiviruses, so you can trust us 100%
 # Social media
 It's empty here for now...
+# Other
+Егуар буст на русском: https://github.com/Dai56764/Eguarboost-RUS
+
