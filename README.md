@@ -1,3 +1,7 @@
+This branch will no longer be updated now this is another project, but already as a firmware and not a module 
+Below link to continuation 
+https://github.com/Eguarboost/New-speseshyper
+
 > [!WARNING]
 > The creator of this creation is not responsible for your phone, you place everything at your own risk. 
 
